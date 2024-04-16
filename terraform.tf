@@ -14,4 +14,4 @@ resource "azurerm_storage_account" "example" {
   account_tier             = "Standard"
   account_replication_type = "LRS"
   allow_blob_public_access = true
-}
+}c
